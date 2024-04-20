@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>PinnaCloud Snapshot Nexus Repository </name>
-	      <url>http://184.72.194.196:9980/pinnacloud/repository/ublbank-snapshot/</url>
+	      <url>http://172.31.84.131:9980/pinnacloud/repository/ublbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
